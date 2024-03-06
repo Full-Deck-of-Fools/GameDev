@@ -1,5 +1,3 @@
-#GameDev
-
 This repository consists of three sections:
 
 ### Game Development Concepts
